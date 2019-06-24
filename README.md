@@ -1,2 +1,2 @@
 # NewPrj1
-new project example gattino aaaa
+new project example gattino 
